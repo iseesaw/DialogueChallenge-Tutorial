@@ -16,3 +16,13 @@
 
 
 
+## AIWolfDial2019
+
+[The 1st International Workshop of AI Werewolf and Dialog System](https://aiwolfdial.kanolab.net/)
+
+The AIWolf conference has two branches: the NLP branch, and the Protocol branch.
+
+The protocol division asks participants to implement an AI werewolf player agent that communicates in a middle language called the AI werewolf protocol.
+
+The natural language division asks participants to implement an AI werewolf agent that communicates in natural language.
+
