@@ -2,25 +2,15 @@
 
 招商Tutorial
 
-ecdt2017 2018 2019 2020，smp-mcc，glue，superglue，dstc
+内容：ecdt2017 2018 2019 2020，smp-mcc，glue，superglue，dstc
 
-1h15mins
+时间：1h15mins，2020年7月7日
 
-> 把控大致内容，填满时间，可能讨论
->
-> 模型方案，可以掌握一下前3结果的大体思路
 
-- 介绍实验室组织的历届ECDT以及MCC评测
 
-  任务介绍，评测方式，数据等
-
-  评测结果以及前几名的解决方案
-
-- 介绍历届评测的改进、不同点；以及模型方案演变
-
-- 欢迎参加ECDT 2020 以及 MCC 2020（截止时间表）
-
-- 其他对话评测（DSTC）、AIWolf Dialog
+- 介绍实验室参与组织的历届对话评测，即 SMP-ECDT 和 SMP-MCC 系列，将主要介绍评测任务、评测方式、评测数据等；同时也将简要介绍评测结果以及主要解决方法和模型方案演变；并分享实验室在历届对话评测中的组织经验等
+- 介绍实验室近期组织的对话评测，即 SMP-ECDT 2020 和 SMP-MCC 2020（任务描述、奖金及时间表、交流群）
+- 最后介绍几个国外知名的对话评测，即 DSTC系列 和 AIWolf Dialog 等
 
 
 
@@ -33,6 +23,8 @@ ecdt2017 2018 2019 2020，smp-mcc，glue，superglue，dstc
 
 
 ### ECDT
+
+由于任务型对话系统的商业价值和评价指标等，因此在学术界和工业界的广泛研究；相对于闲聊型对话，在对话评测中任务型对话系统的评测任务会更多一些
 
 [SMP-ECDT 2017](http://ir.hit.edu.cn/smp2017-ecdt)，[评测数据](https://github.com/HITlilingzhi/SMP2017ECDT-DATA)
 
