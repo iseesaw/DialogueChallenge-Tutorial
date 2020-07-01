@@ -8,7 +8,9 @@
 
 
 
-- 介绍实验室参与组织的历届对话评测，即 SMP-ECDT 和 SMP-MCC 系列，将主要介绍评测任务、评测方式、评测数据等；同时也将简要介绍评测结果以及主要解决方法和模型方案演变；并分享实验室在历届对话评测中的组织经验等
+- 总体介绍，对话评测列表
+
+- 介绍实验室参与组织的历届对话评测，即 SMP-ECDT 和 SMP-MCC 系列，将主要介绍评测任务、评测方式、评测数据等；同时也将简要介绍评测结果以及主要解决方法和模型方案演变；并分享实验室在历届对话评测中的组织经验；总结历届队伍刷榜经验
 - 介绍实验室近期组织的对话评测，即 SMP-ECDT 2020 和 SMP-MCC 2020（任务描述、奖金及时间表、交流群）
 - 最后介绍几个国外知名的对话评测，即 DSTC系列 和 AIWolf Dialog 等
 
@@ -30,9 +32,9 @@
 
 [SMP-ECDT 2018](https://www.steamedfish.cn/2018/09/30/%E3%80%90%E7%B2%BE%E5%BD%A9%E7%BB%A7%E7%BB%AD%E3%80%91SMP2018%E4%B8%AD%E6%96%87%E4%BA%BA%E6%9C%BA%E5%AF%B9%E8%AF%9D%E6%8A%80%E6%9C%AF%E8%AF%84%E6%B5%8B%EF%BC%88ECDT%EF%BC%89%E5%88%B7%E6%A6%9C%E5%85%AC%E5%91%8A/)
 
-[SMP-ECDT 2019](http://conference.cipsc.org.cn/smp2019/evaluation.html)
+[SMP-ECDT 2019](http://conference.cipsc.org.cn/smp2019/evaluation.html) （首次引入闲聊对话）
 
-[SMP-ECDT 2020](https://smp2020.aconf.cn/smp.html#3)
+[SMP-ECDT 2020](https://smp2020.aconf.cn/smp.html#3)
 
 
 
@@ -51,6 +53,14 @@
 [DSTC8](https://sites.google.com/dstc.community/dstc8/tracks)
 
 [DSTC9](https://sites.google.com/dstc.community/dstc9/tracks)
+
+
+
+### JDDC
+
+[JDDC 2019](https://jddc.jd.com/2019/)
+
+[JDDC 2020](https://jddc.jd.com/)
 
 
 
