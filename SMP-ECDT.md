@@ -215,7 +215,7 @@
 
 [SMP-ECDT 2019](http://conference.cipsc.org.cn/smp2019/evaluation.html)
 
-
+[排行榜](https://adamszq.github.io/smp2019ecdt_task1/)
 
 ### 任务1：自然语言理解评测
 
@@ -277,8 +277,6 @@
       将每个query与至多5个知识图谱概念匹配，将词嵌入与BERT编码结果进行拼接
 
     - BERT（拼接知识图谱信息） + BiLSTM + CRF 进行 Slot 标注（BIE标签）
-
-      该操作提升3个点
 
       Add Frame-Filter，根据训练数据集归纳出语义框架，再使用语义框架过滤模型预测的Slot标注结果，过滤掉不属于Domain的Slot标记
 
