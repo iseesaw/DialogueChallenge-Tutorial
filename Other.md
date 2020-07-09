@@ -53,8 +53,3 @@ The natural language division asks participants to implement an AI werewolf agen
   [CCL 2020](http://www.cips-cl.org/static/CCL2020/evaluationtasks.html)
 
 
-
-## Microsoft Dialog Challenge
-
-[Multi-Domain Microsoft Dialog Challenge](https://www.microsoft.com/en-us/research/project/multi-domain-task-completion-dialog-challenge/)
-

@@ -6,14 +6,6 @@
 
 ## Introduce
 
-[多轮对话状态追踪（DST）--模型介绍篇](https://zhuanlan.zhihu.com/p/40988001)
-
-[Review on Intent Classification and Slot Filling](https://sara-hy.github.io/2018/11/02/intent_slot/)
-
-任务型对话，自然语言理解，包括意图识别和槽位填充
-
-
-
 ## DSTC1
 
 [DSTC1](https://www.microsoft.com/en-us/research/event/dialog-state-tracking-challenge/#!dstc1-information)
@@ -22,29 +14,11 @@
 
 
 
-> 公交线路查询，目标固定不变。共5个slot（路线，出发点，终点，日期，时间）
->
-> 用户的目标在对话过程中不会发生变化
->
-> 最好方案使用判别+生成+无监督自适应，NN方法效果一般，不如人工规则
-
-
-
 ## DSTC2 & DSTC3
 
 [DSTC2/3](http://camdial.org/~mh521/dstc/)
 
 DSTC2/3 used human-computer dialogs in the restaurant information domain.
-
-
-
-> 餐馆预订，用户查询满足特定条件下的餐馆的某些信息（电话、地址等）
->
-> 用户目标在对话过程中发生变化
->
-> 大部分队伍开始尝试使用NN的方法，大多尝试序列建模（CRF，HMM）
->
-> web ranking 的效果也比较好，很多队伍直接使用 ARS 结果，不再使用 SLU 组件
 
 
 
