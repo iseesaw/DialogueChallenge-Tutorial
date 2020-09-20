@@ -40,6 +40,7 @@
 - [SMP-ECDT 2020](https://smp2020.aconf.cn/smp.html#3)
   - 任务1：小样本对话语言理解技术评测
   - 任务2：知识驱动的多轮对话竞赛
+  - [参赛队伍评测报告视频, 提取码: ijcw](https://pan.baidu.com/s/1TmzQ3VYJQsOzlP17-nGJVw)
 
 
 
