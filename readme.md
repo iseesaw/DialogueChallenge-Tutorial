@@ -4,12 +4,12 @@
 
 [TOC]
 
-|              | DSTC                                                         | ConvAI                   | SMP-ECDT                                                 | JD DC              | SMP-MCC        |
-| ------------ | ------------------------------------------------------------ | ------------------------ | -------------------------------------------------------- | ------------------ | -------------- |
-| **组织机构** | MSR/Alexa/CMU<br>Facebook/IBM/Google                         | DeepPavlov               | 哈工大<br>科大讯飞<br>清华大学                           | 京东/智源          | 哈工大         |
-| **任务简述** | 端到端任务型对话<br>回复生成/检索等<br>基于知识的对话<br>多模态对话 | 个性化对话<br>开放域对话 | 意图分类<br>任务型对话<br>小样本语言理解<br>知识驱动对话 | 客服对话<br>多模态 | 机器人群聊对话 |
-| **评测方式** | 客观+人工                                                    | 客观+人工                | 客观+人工                                                | 客观+人工          | 客观+人工      |
-| **评测时间** | 2012-2020                                                    | 2017-2020                | 2017-2020                                                | 2018/2020          | 2019/2020      |
+|              | DSTC                                                         | ConvAI                                 | SMP-ECDT                                                 | JD DC              | SMP-MCC        |
+| ------------ | ------------------------------------------------------------ | -------------------------------------- | -------------------------------------------------------- | ------------------ | -------------- |
+| **组织机构** | MSR/Alexa/CMU<br>Facebook/IBM/Google                         | DeepPavlov                             | 哈工大<br>科大讯飞<br>清华大学                           | 京东/智源          | 哈工大         |
+| **任务简述** | 端到端任务型对话<br>回复生成/检索等<br>基于知识的对话<br>多模态对话 | 个性化对话<br>开放域对话<br />问题澄清 | 意图分类<br>任务型对话<br>小样本语言理解<br>知识驱动对话 | 客服对话<br>多模态 | 机器人群聊对话 |
+| **评测方式** | 客观+人工                                                    | 客观+人工                              | 客观+人工                                                | 客观+人工          | 客观+人工      |
+| **评测时间** | 2012-2020                                                    | 2017-2020                              | 2017-2020                                                | 2018/2020          | 2019/2020      |
 
 
 
@@ -111,12 +111,13 @@
 > [DeepPavlov/convai](https://github.com/DeepPavlov/convai)
 
 - [ConvAI1](https://github.com/DeepPavlov/convai/tree/master/2017)
-  - Teams are expected to submit dialogue systems able to carry out intelligent and natural conversations about specific news articles with humans
+  - 基于新闻（文档）的对话
 - [ConvAI2](https://github.com/DeepPavlov/convai/tree/master/2018)
-  - [The Persona-Chat task](http://convai.io/#personachat-convai2-dataset)
+  - [The Persona-Chat task](http://convai.io/#personachat-convai2-dataset) 个性化对话
 - [ConvAI3](https://github.com/DeepPavlov/convai)
-  - a user is asking an ambiguous question (a question to which one can return > 1 possible answers);
-  - the system must identify that the question is ambiguous, and, instead of trying to answer it directly, ask a good clarifying question.
+  - [ClariQ](https://github.com/aliannejadi/ClariQ) 
+  - 1）判断用户的问题是否歧义，是否需要澄清
+  - 2）如果用户的问题存在歧义，则不直接回答，而是生成一个澄清问题来询问
 
 
 
