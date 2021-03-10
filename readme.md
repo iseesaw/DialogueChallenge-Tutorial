@@ -4,12 +4,12 @@
 
 [TOC]
 
-|              | DSTC                                                         | ConvAI                                 | SMP-ECDT                                                 | JD DC              | SMP-MCC        |
-| ------------ | ------------------------------------------------------------ | -------------------------------------- | -------------------------------------------------------- | ------------------ | -------------- |
-| **组织机构** | MSR/Alexa/CMU<br>Facebook/IBM/Google                         | DeepPavlov                             | 哈工大<br>科大讯飞<br>清华大学                           | 京东/智源          | 哈工大         |
-| **任务简述** | 端到端任务型对话<br>回复生成/检索等<br>基于知识的对话<br>多模态对话 | 个性化对话<br>开放域对话<br />问题澄清 | 意图分类<br>任务型对话<br>小样本语言理解<br>知识驱动对话 | 客服对话<br>多模态 | 机器人群聊对话 |
-| **评测方式** | 客观+人工                                                    | 客观+人工                              | 客观+人工                                                | 客观+人工          | 客观+人工      |
-| **评测时间** | 2012-2020                                                    | 2017-2020                              | 2017-2020                                                | 2018/2020          | 2019/2020      |
+|              | DSTC                                                         | ConvAI                                 | Alexa Prize | SMP-ECDT                                                 | JD DC              | SMP-MCC        |
+| ------------ | ------------------------------------------------------------ | -------------------------------------- | ----------- | -------------------------------------------------------- | ------------------ | -------------- |
+| **组织机构** | MSR/Alexa/CMU<br>Facebook/IBM/Google                         | DeepPavlov                             | Amazon      | 哈工大<br>科大讯飞<br>清华大学                           | 京东/智源          | 哈工大         |
+| **任务简述** | 端到端任务型对话<br>回复生成/检索等<br>基于知识的对话<br>多模态对话 | 个性化对话<br>开放域对话<br />问题澄清 | 社交机器人  | 意图分类<br>任务型对话<br>小样本语言理解<br>知识驱动对话 | 客服对话<br>多模态 | 机器人群聊对话 |
+| **评测方式** | 客观+人工                                                    | 客观+人工                              | 人工        | 客观+人工                                                | 客观+人工          | 客观+人工      |
+| **评测时间** | 2012-2020                                                    | 2017-2020                              | 2018-2020   | 2017-2020                                                | 2018/2020          | 2019/2020      |
 
 
 
@@ -56,6 +56,16 @@
 
 
 
+## Alexa Prize
+
+> 由亚马逊Alexa组织的社交机器人挑战
+>
+> 参赛队伍需要涉及完整的对话系统并部署在Alexa上，与Alexa用户进行沟通，通过Alexa用户打分作为晋级依据
+
+- [Alexa Prize Challenge 3](https://developer.amazon.com/alexaprize/challenges/)
+
+
+
 ## JDDC
 
 > 由京东和智源组织的关于客服对话和多模态对话的评测
@@ -71,6 +81,14 @@
 > 中移在线客服领域用户意图分类
 
 [CCL 2018](http://www.cips-cl.org/static/CCL2018/call-evaluation.html), [冠军方案](https://github.com/nlpjoe/2018-CCL-UIIMCS)
+
+
+
+## 千言：多技能对话
+
+> [2020 CCF BDCI 千言：多技能对话](https://aistudio.baidu.com/aistudio/competition/detail/55)
+
+本次评测的开放域对话数据集包含多个数据，涵盖了多个功能场景：包括日常闲聊对话，知识对话、推荐对话等。我们旨在衡量开放域对话模型在各个不同技能上的效果和模型通用性。
 
 
 
@@ -103,6 +121,8 @@
   - Track2 [Multi-domain Task-oriented Dialog Challenge II](https://www.microsoft.com/en-us/research/project/multi-domain-task-completion-dialog-challenge-ii/)
   - Track3 [Interactive Evaluation of Dialog](http://dialog.speech.cs.cmu.edu:8003/)
   - Track4 [SIMMC: Situated Interactive Multi-Modal Conversation AI](https://github.com/facebookresearch/simmc)
+
+- [DSTC10](https://sites.google.com/dstc.community/dstc10/)
 
 
 
